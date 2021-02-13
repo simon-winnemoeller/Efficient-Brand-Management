@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Development of an AI driven text creation for brand management systems and creating on brand content.
+Development of an AI driven text creation for brand management systems for creating on brand content.
 
 ## Background
 
